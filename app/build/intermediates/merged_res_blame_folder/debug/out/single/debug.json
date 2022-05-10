@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_menu_inteface.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_main_menu_inteface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_single_item_raw.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\single_item_raw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_contact.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shoe.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_minus_change.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\minus_change.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_fgfgf.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\fgfgf.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_w.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\w.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_plus_change.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\plus_change.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_cusromer_reg_back.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\cusromer_reg_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_p.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\p.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_l_pic.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\l_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_single_order_raw.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\single_order_raw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_imageview.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\imageview.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_smartphone_24.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_baseline_smartphone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_riview_rate.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_riview_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_minus.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rating.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_customer_get_data.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_customer_get_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_phone.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rate.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_rateitem.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\rateitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_btn.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\add_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_selleritem.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\selleritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg1.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ww.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ww.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sport_shoe_upload.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_sport_shoe_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg6.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_plus.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_policy_24.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_baseline_policy_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_order_back.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\order_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mybutton.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\mybutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_customer_login_part.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_customer_login_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shoe3.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\shoe3.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_age.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_age.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg3.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_seller_review.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_seller_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg_back.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_menu_menu_back.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\menu_menu_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_read_data.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_read_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order_list.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_sitem.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\sitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg4.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_seller_list.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_seller_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_profileback.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\profileback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rate_review.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_rate_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_order.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_edit_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_open_menu.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_open_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order_detail.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_seller.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_rewe.jpg.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\rewe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_office_shoe_upload.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_office_shoe_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_order.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\order.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_prooo.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\prooo.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg5.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_cus_back_ground.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\cus_back_ground.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_proback.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\proback.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_q.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\q.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_order.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_update_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_regback.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\regback.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ed.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\ed.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_sellerback.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\sellerback.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mahen.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\mahen.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\layout_update_popup.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\layout\\update_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_loginback.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\loginback.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_menu_icon.png.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg2.xml.flat",
+        "source": "C:\\Users\\Campus\\Downloads\\shoeAppmad\\app\\src\\main\\res\\drawable-v24\\bg2.xml"
+    }
+]
